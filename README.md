@@ -7,4 +7,6 @@
 
 ### Step 1 - Choose Your Data Adventure
 
-🗺️ To kick things off, I needed a reliable source of crypto data, and that's where CoinMarketCap's API comes into play. It's like our treasure map to real-time cryptocurrency prices, market caps, and more.
+🗺️ To kick things off, I needed a reliable source of crypto data, and that's where CoinMarketCap's API comes into play. There is a basic free plan which has enabled me to access the API which later will provide me necessary data. TO get the access I had to register to the developer portal.
+
+!([Crypto_API_Excel_1.png](https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_1.png)
