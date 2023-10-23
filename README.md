@@ -28,13 +28,13 @@
 📊 In this step, I utilized Power Query within Excel to prepare the data for analysis. Here's how I went about it:
 
 1. **Convert Inputs to Table:** I initiated the process by converting the raw inputs into a structured table format.
-<img width="650" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_4.png">
+<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_4.png">
 
 3. **Choose Necessary Columns:** Next, I selected the required columns from the available dataset. By doing so, I focused the analysis on the specific information I needed, simplifying the subsequent steps. For the purpose of this excercise I have choosen 4 Cryptocurrencies to use later. Bitcoin, Ethereum, Cardano and XRP.
-<img width="650" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_5.png">
+<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_5.png">
 
 5. **Set the Format of the Columns:** To ensure the data is correctly interpreted, I applied appropriate formatting to the selected columns.
-<img width="650" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_6.png">
+<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_6.png">
 
 7. **Create a Table in Excel:** After shaping the data in Power Query, I brought it into Excel as a structured table. This final table is the foundation for the subsequent analysis and visualization.
-<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_7.png">
+<img width="850" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_7.png">
