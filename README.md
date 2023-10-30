@@ -30,11 +30,25 @@
 1. **Convert Inputs to Table:** I initiated the process by converting the raw inputs into a structured table format.
 <img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_4.png">
 
-3. **Choose Necessary Columns:** Next, I selected the required columns from the available dataset. By doing so, I focused the analysis on the specific information I needed, simplifying the subsequent steps. For the purpose of this excercise I have choosen 4 Cryptocurrencies to use later. Bitcoin, Ethereum, Cardano and XRP.
+2. **Choose Necessary Columns:** Next, I selected the required columns from the available dataset. By doing so, I focused the analysis on the specific information I needed, simplifying the subsequent steps. For the purpose of this excercise I have choosen 4 Cryptocurrencies to use later. Bitcoin, Ethereum, Cardano and XRP.
 <img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_5.png">
 
-5. **Set the Format of the Columns:** To ensure the data is correctly interpreted, I applied appropriate formatting to the selected columns.
+3. **Set the Format of the Columns:** To ensure the data is correctly interpreted, I applied appropriate formatting to the selected columns.
 <img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_6.png">
 
-7. **Create a Table in Excel:** After shaping the data in Power Query, I brought it into Excel as a structured table. This final table is the foundation for the subsequent analysis and visualization.
+4. **Create a Table in Excel:** After shaping the data in Power Query, I brought it into Excel as a structured table. This final table is the foundation for the subsequent analysis and visualization.
 <img width="850" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_7.png">
+
+
+### Step 4 - Real-Time Profit Calculation Logic
+
+🧰 I have created additional excel table which contains all of the necessary data for the dashboard. It pulls the current price from API data and thanks to the robust formulas and logic calculates current portfolio value and profit.
+
+<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_8.png">
+
+### Step 5 - Final Data Visualization
+
+📈 Finally a summary section provides key metrics, including total investment, current portfolio value, profit/loss percentage, and more. These metrics offer a snapshot of the portfolio's health and performance. Additionally I have added a refresh button with a macro for easy update of data.
+
+<img width="750" alt="image" src="https://github.com/sirmichal/Crypto_API_Excel/blob/main/Crypto_API_Excel_9.png">
+
